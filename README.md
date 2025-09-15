@@ -50,9 +50,9 @@ Arcane-Touch/
 
 ---
 ## ✨ Ideas for Future Improvements
-• Multi-hand support
-• Customizable particle colors
-• Sound effects with each spark
-• Export as a video filter
+• Multi-hand support.
+• Customizable particle colors.
+• Sound effects with each spark.
+• Export as a video filter.
 
 ---
